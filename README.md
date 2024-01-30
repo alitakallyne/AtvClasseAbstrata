@@ -16,7 +16,7 @@ $ git clone https://github.com/alitakallyne/AtvClasseAbstrata.git && cd AtvClass
 ```
 ## 💻 Project
 
-Este projeto foi desenvolvido no curso de Java do **[Curso Backend do VNW](https://vainaweb.com.br/)**
+Este projeto foi desenvolvido no  **[Curso Backend do VNW](https://vainaweb.com.br/)**
 
 
 ---
