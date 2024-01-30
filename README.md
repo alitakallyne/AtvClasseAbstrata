@@ -3,7 +3,7 @@
 
 ## 📝 Diagrama de Classes e Relacionamentos
 
-<img src="Classes.png" alt="Exemplo imagem">
+<img src="Classes.vpd.png" alt="Exemplo imagem">
 
 ## 🛠  Tecnologias
 - [Java](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
