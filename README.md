@@ -7,7 +7,7 @@
 - [Java](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
 
 ##  Como executar 🚀 
-Clone the project and access the folder
+Clone o projeto e acesse a pasta
 
 ```bash
 $ git clone https://github.com/alitakallyne/AtvClasseAbstrata.git && cd AtvClasseAbstrata
